@@ -21,7 +21,7 @@ const navLinks = [
 const socialLinks = [
   {
     name: "GitHub",
-    href: "https://github.com/mrprvn/thinkdrop",
+    href: "https://github.com/mrprvn/feedlet",
     icon: GithubIcon,
   },
   {
@@ -56,8 +56,7 @@ export default function Navigation() {
             <MessageSquareText className="h-6 w-6" />
 
             <h1 className="text-xl text-blue-500 font-medium cursor-pointer">
-              Think
-              <span className="text-slate-800 dark:text-[#E7E9EC]">Drop</span>
+              Feedlet
             </h1>
           </Link>
           {session.data?.user ? (

@@ -179,9 +179,7 @@ export default function Page() {
     <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
       <header className="text-center mb-8">
         <h1 className="text-3xl font-bold text-gray-900 dark:text-gray-100">
-          <span className="text-blue-500">Think</span>
-          <span className="text-gray-900 dark:text-gray-100">Drop</span>{" "}
-          Feedbacks
+          <span className="text-blue-500">Feedlet</span> Feedbacks
         </h1>
         <div className="mt-2 text-lg text-gray-600 dark:text-gray-400">
           Review and manage customer feedbacks for {project}

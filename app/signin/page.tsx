@@ -37,7 +37,7 @@ export default function SignInSignUp() {
     if (res?.error) {
       setError("Invalid email or password. Please try again.");
     } else {
-      toast.success("You've successfully logged in to your ThinkDrop account.");
+      toast.success("You've successfully logged in to your Feedlet account.");
       router.push("/projects");
     }
   };
@@ -47,8 +47,7 @@ export default function SignInSignUp() {
       <div className="border border-gray-200 dark:border-gray-700 rounded-lg shadow-xl dark:shadow-gray-800 p-8 max-w-md w-full">
         <div className="text-center mb-8">
           <h1 className="text-3xl font-bold text-gray-900 dark:text-white">
-            Welcome to{" "}
-            <span className="text-blue-600 font-bold">ThinkDrop</span>
+            Welcome to <span className="text-blue-600 font-bold">Feedlet</span>
           </h1>
           <p className="text-gray-600 dark:text-gray-400 mt-2">
             Login or create your account
@@ -122,8 +121,8 @@ export default function SignInSignUp() {
           </button>
         </div>
         <p className="mt-4 text-sm text-center text-gray-600 dark:text-gray-400">
-          By continuing, you agree to ThinkDrop&#39;s Terms of Service and
-          Privacy Policy.
+          By continuing, you agree to Feedlet&#39;s Terms of Service and Privacy
+          Policy.
         </p>
       </div>
     </div>

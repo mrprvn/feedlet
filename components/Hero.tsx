@@ -48,7 +48,7 @@ export default function Home() {
           <ArrowRight className="w-4 h-4" />
         </Link>
         <Link
-          href="https://github.com/mrprvn/thinkdrop"
+          href="https://github.com/mrprvn/feedlet"
           target="_blank"
           className="px-6 bg-gradient-to-b hover:bg-primary/10 transition-all py-3 rounded-full border text-sm font-medium flex items-center justify-center gap-2 text-center w-full sm:w-auto shadow-inner shadow-black/10 hover group"
         >
@@ -79,10 +79,10 @@ export default function Home() {
 
       <div className="mt-20 px-4 max-w-7xl mx-auto text-center">
         <h2 className="text-2xl sm:text-3xl text-slate-800 dark:text-[#E7E9EC] font-medium">
-          See ThinkDrop in Action
+          See Feedlet in Action
         </h2>
         <p className="text-base sm:text-lg text-slate-800 dark:text-slate-500 mt-4 w-full sm:w-3/4 md:w-1/2 mx-auto px-4">
-          Explore a live demo to understand how ThinkDrop can transform your
+          Explore a live demo to understand how Feedlet can transform your
           feedback collection and presentation.
         </p>
         <div>
@@ -95,7 +95,7 @@ export default function Home() {
           FAQ&#39;s
         </h2>
         <p className="text-base sm:text-lg text-slate-800 dark:text-slate-500 mt-4 w-full sm:w-3/4 md:w-1/2 mx-auto px-4">
-          Some common FAQ&#39;s about ThinkDrop
+          Some common FAQ&#39;s about Feedlet
         </p>
         <div className="text-left">
           <Accordian />
@@ -108,7 +108,7 @@ export default function Home() {
         </h2>
         <p className="text-base sm:text-lg text-slate-800 dark:text-slate-500 mt-4 w-full sm:w-3/4 md:w-1/2 mx-auto px-8">
           Start showcasing your journey to better user feedback insights today
-          with ThinkDrop and see the difference it makes.
+          with Feedlet and see the difference it makes.
         </p>
         <div className="flex justify-center mt-8">
           <Link

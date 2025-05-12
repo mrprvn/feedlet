@@ -58,8 +58,7 @@ export default function FeedbackWidget({
       rel="noopener noreferrer"
       className="text-sm text-muted-foreground hover:underline mt-4 block text-center"
     >
-      Powered by{" "}
-      <span className="font-semibold text-foreground">ThinkDrop</span>
+      Powered by <span className="font-semibold text-foreground">Feedlet</span>
     </a>
   );
 

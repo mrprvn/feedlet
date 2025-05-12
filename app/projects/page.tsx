@@ -23,11 +23,7 @@ export default async function Page() {
     <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-12 min-h-screen">
       <header className="text-center mb-16">
         <h1 className="text-3xl font-bold text-gray-900 dark:text-gray-100">
-          <span className="font-bold text-blue-500">
-            Think
-            <span className="text-gray-800 dark:text-[#E7E9EC]">Drop</span>
-          </span>{" "}
-          Projects
+          <span className="font-bold text-blue-500">Feedlet</span> Projects
         </h1>
         <p className="text-lg text-gray-600 dark:text-gray-400 mt-2">
           Add your projects now to get valuable feedback.

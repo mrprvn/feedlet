@@ -13,9 +13,7 @@ export default async function Docs() {
     <div className="max-w-4xl mx-auto px-6 py-12">
       <header className="text-center mb-10">
         <h1 className="text-3xl sm:text-3xl font-bold text-gray-900 dark:text-gray-100">
-          <span className="text-blue-500">Think</span>
-          <span className="text-gray-900 dark:text-gray-100">Drop</span>{" "}
-          Documentation
+          <span className="text-blue-500">Feedlet</span> Documentation
         </h1>
         <p className="text-lg text-gray-600 dark:text-gray-400 mt-4">
           Your ultimate tool to collect, showcase, and gain insights from user
@@ -27,11 +25,11 @@ export default async function Docs() {
         <div className="flex items-center gap-4 mb-6">
           <Info className="w-6 h-6 text-blue-500" />
           <h2 className="text-2xl font-semibold text-gray-900 dark:text-gray-100">
-            What is ThinkDrop?
+            What is Feedlet?
           </h2>
         </div>
         <p className="text-gray-600 dark:text-gray-400 leading-relaxed">
-          ThinkDrop is a feedback collection tool that simplifies embedding
+          Feedlet is a feedback collection tool that simplifies embedding
           feedback forms on your website. It provides AI-powered insights to
           help you understand user sentiments and improve your platform.
         </p>
@@ -41,7 +39,7 @@ export default async function Docs() {
         <div className="flex items-center gap-4 mb-6">
           <Rocket className="w-6 h-6 text-blue-500" />
           <h2 className="text-2xl font-semibold text-gray-900 dark:text-gray-100">
-            Why Choose ThinkDrop?
+            Why Choose Feedlet?
           </h2>
         </div>
         <ul className="list-disc pl-6 text-gray-600 dark:text-gray-400">
@@ -68,7 +66,7 @@ export default async function Docs() {
           </h2>
         </div>
         <ol className="list-decimal pl-6 text-gray-600 dark:text-gray-400">
-          <li>Sign up for ThinkDrop.</li>
+          <li>Sign up for Feedlet.</li>
           <li>Add your project.</li>
           <li>Copy the embed code.</li>
           <li>Insert the code into your website.</li>

@@ -18,8 +18,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "ThinkDrop",
-  description: "Every Thought Counts",
+  title: "Feedlet",
+  description: "Every Feed Counts",
 };
 
 export default function RootLayout({

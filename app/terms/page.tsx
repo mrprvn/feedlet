@@ -7,11 +7,8 @@ export default function TermsOfService() {
     <div className="w-full mx-auto px-6 ">
       <header className="text-center mt-10 pb-10">
         <h1 className="text-3xl  font-bold text-gray-800 dark:text-gray-200">
-          <span className="font-bold text-blue-500">
-            Think
-            <span className="text-gray-800 dark:text-[#E7E9EC]">Drop</span>
-          </span>{" "}
-          Terms of Service
+          <span className="font-bold text-blue-500">Feedlet</span> Terms of
+          Service
         </h1>
         <p className="text-base sm:text-lg text-gray-600 dark:text-gray-400 mt-4">
           Please read these terms carefully before using our service

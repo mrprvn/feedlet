@@ -8,26 +8,26 @@ import {
 const faqData = [
   {
     value: "item-1",
-    question: "What is ThinkDrop?",
+    question: "What is Feedlet?",
     answer:
-      "ThinkDrop is a platform for easy feedback form integration, featuring AI summaries and showcases.",
+      "Feedlet is a platform for easy feedback form integration, featuring AI summaries and showcases.",
   },
   {
     value: "item-2",
-    question: "How can ThinkDrop improve user feedback collection?",
+    question: "How can Feedlet improve user feedback collection?",
     answer:
-      "ThinkDrop streamlines feedback collection with intuitive and integrable forms.",
+      "Feedlet streamlines feedback collection with intuitive and integrable forms.",
   },
   {
     value: "item-3",
-    question: "What are the key features of ThinkDrop?",
+    question: "What are the key features of Feedlet?",
     answer:
-      "ThinkDrop offers user-friendliness, seamless integration, and a simplified interface.",
+      "Feedlet offers user-friendliness, seamless integration, and a simplified interface.",
   },
   {
     value: "item-4",
-    question: "How secure is the data collected by ThinkDrop?",
-    answer: "ThinkDrop ensures data security through secure storage.",
+    question: "How secure is the data collected by Feedlet?",
+    answer: "Feedlet ensures data security through secure storage.",
   },
   {
     value: "item-5",

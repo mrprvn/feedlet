@@ -11,11 +11,11 @@ export default function Features() {
   return (
     <div className="mt-20 px-4 max-w-7xl mx-auto">
       <h2 className="text-2xl sm:text-3xl text-center  text-slate-800 dark:text-[#E7E9EC] font-medium">
-        Why Choose ThinkDrop for Collecting Feedback?
+        Why Choose Feedlet for Collecting Feedback?
       </h2>
       <p className="text-base sm:text-lg text-center mt-4 max-w-xl mx-auto text-slate-800 dark:text-slate-500">
-        ThinkDrop offers a powerful suite of features to make feedback
-        collection and showcasing effortless.
+        Feedlet offers a powerful suite of features to make feedback collection
+        and showcasing effortless.
       </p>
       <div className="text-center text-3xl text-slate-800 dark:text-[#E7E9EC] font-medium mt-20">
         Powereful Features!
